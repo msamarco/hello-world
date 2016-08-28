@@ -1,2 +1,5 @@
 # hello-world
-Introductory Repository
+
+Hello,
+
+My name is Michael Samarco.
